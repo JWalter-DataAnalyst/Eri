@@ -386,11 +386,31 @@ ninja.data = [{
             window.location.href = "/Eri/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-critical-thinking",
+          title: 'Critical Thinking',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/Eri/books/the_godfather/";
+              window.location.href = "/Eri/books/Critical_Thinking/";
+            },},{id: "books-inside-the-criminal-mind",
+          title: 'Inside the Criminal Mind',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/Eri/books/Inside_Criminal_Mind/";
+            },},{id: "books-the-legal-analyst-a-toolkit-for-thinking-about-the-law",
+          title: 'The Legal Analyst A Toolkit for Thinking About the Law',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/Eri/books/Legal_Analyst/";
+            },},{id: "books-tort-law",
+          title: 'Tort Law',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/Eri/books/Tort_Law/";
+            },},{id: "books-the-constitution-of-the-united-states-of-america",
+          title: 'The Constitution of the United States of America',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/Eri/books/US_Constitution/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
