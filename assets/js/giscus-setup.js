@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "JWalter-DataAnalyst/Eri",
+    "data-repo": "eringogel/Eri",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
